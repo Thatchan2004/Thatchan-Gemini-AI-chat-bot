@@ -2,7 +2,7 @@ import streamlit as st
 import google.generativeai as genai
 
 
-st.title("welcome to Thatchan chat Bot")
+st.title("welcome to Thatchan AI chat")
 
 genai.configure(api_key="AIzaSyCnGfSjBFZ42AtjIJ7IlGCM3wSGjkzh7LI")  #to get api-key https://aistudio.google.com/app/apikey
 
